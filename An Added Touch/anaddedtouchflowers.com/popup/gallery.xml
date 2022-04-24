@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+	
+	galleryStyle="CLASSIC"
+	title="An Added Touch Flowers"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="20"
+	thumbPosition="LEFT"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"	
+	maxImageWidth="640"
+	maxImageHeight="640"
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""
+	languageCode="AUTO"
+	languageList=""		
+	imagePath="images/"
+	thumbPath="thumbs/"
+	
+>
+
+<image imageURL="images/1.jpg" thumbURL="thumbs/1.jpg" linkURL="" linkTarget="" >
+<caption>Credit: J Perlman</caption>
+</image>
+<image imageURL="images/2.jpg" thumbURL="thumbs/2.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/3.jpg" thumbURL="thumbs/3.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Genesis Photography</caption>
+</image>
+<image imageURL="images/4.jpg" thumbURL="thumbs/4.jpg" linkURL="" linkTarget="" >
+<caption></caption>
+</image>
+<image imageURL="images/5.jpg" thumbURL="thumbs/5.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Genesis Photography</caption>
+</image>
+<image imageURL="images/6.jpg" thumbURL="thumbs/6.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Genesis Photography</caption>
+</image>
+<image imageURL="images/7.jpg" thumbURL="thumbs/7.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Kenny Etchepare Photography</caption>
+</image>
+<image imageURL="images/8.jpg" thumbURL="thumbs/8.jpg" linkURL="" linkTarget="" >
+<caption></caption>
+</image>
+<image imageURL="images/9.jpg" thumbURL="thumbs/9.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Pure Image Photography</caption>
+</image>
+<image imageURL="images/10.jpg" thumbURL="thumbs/10.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Pure Image Photography</caption>
+</image>
+<image imageURL="images/11.jpg" thumbURL="thumbs/11.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Genesis Photography</caption>
+</image>
+<image imageURL="images/12.jpg" thumbURL="thumbs/12.jpg" linkURL="" linkTarget="" >
+<caption>Credit: J Perlman</caption>
+</image>
+<image imageURL="images/13.jpg" thumbURL="thumbs/13.jpg" linkURL="" linkTarget="" >
+<caption></caption>
+</image>
+<image imageURL="images/14.jpg" thumbURL="thumbs/14.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Genesis Photography</caption>
+</image>
+<image imageURL="images/15.jpg" thumbURL="thumbs/15.jpg" linkURL="" linkTarget="" >
+<caption></caption>
+</image>
+<image imageURL="images/16.jpg" thumbURL="thumbs/16.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/17.jpg" thumbURL="thumbs/17.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Abel Sanchez</caption>
+</image>
+<image imageURL="images/18.jpg" thumbURL="thumbs/18.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Pure Image Photography</caption>
+</image>
+<image imageURL="images/19.jpg" thumbURL="thumbs/19.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/20.jpg" thumbURL="thumbs/20.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/21.jpg" thumbURL="thumbs/21.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Pure Image Photography</caption>
+</image>
+<image imageURL="images/22.jpg" thumbURL="thumbs/22.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/23.jpg" thumbURL="thumbs/23.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/24.jpg" thumbURL="thumbs/24.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Bruce Forrester</caption>
+</image>
+<image imageURL="images/25.jpg" thumbURL="thumbs/25.jpg" linkURL="" linkTarget="" >
+<caption>Bruce Forrester Photography</caption>
+</image>
+<image imageURL="images/26.jpg" thumbURL="thumbs/16.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/27.jpg" thumbURL="thumbs/17.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Suzy Clement</caption>
+</image>
+<image imageURL="images/28.jpg" thumbURL="thumbs/18.jpg" linkURL="" linkTarget="" >
+<caption>Credit: Todd Rafalovich Photography</caption>
+</image>
+
+</simpleviewergallery>
